@@ -54,14 +54,3 @@ h1 {
 h1 {
   margin-bottom: 4px;
 }
-
-.bilgi-kutusu {
-  width: 75%;
-  display: inline-block;
-  margin: -10px 0 0 0; /* üst boşluk -1px, sağ alt sol 0 */
-  padding: 0;
-  border: none;
-  box-shadow: none;
-  vertical-align: top;
-}
-
